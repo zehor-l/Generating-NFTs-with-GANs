@@ -1,2 +1,2 @@
-# Generating-NFTs-with-GANs
-Welcome to the Final Fantasy NFT Generator! This project leverages the power of the BigSleep library to create unique NFT artwork inspired by the Final Fantasy game
+# Overview
+This project leverages the BigSleep library, which combines BigGAN and CLIP to generate stunning images based on textual descriptions. By running the provided code, you can create NFTs inspired by the Final Fantasy series. However, the setup is flexible, allowing you to experiment with different themes and styles by simply changing the text prompt.
